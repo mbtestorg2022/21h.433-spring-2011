@@ -42,12 +42,57 @@ Subject Requirements
 
 Active class participation is central to our work together. Attendance is mandatory, and students are expected to arrive in class on time and prepared to discuss common readings. Students will write three seven-page papers during the term. Half the class members will rewrite the first essay, and half will have an opportunity to rewrite either the first or the second essay. In addition, to satisfy the CI-H speaking requirement, we will conduct two in-class debates; each student will have a central speaking role in one of the debates. Instructions for the papers and debates will be distributed later in the term. There will be no midterm and no final. Each assignment will be weighted as follows in the calculation of the final grade, although these calculations will also take into account improved performance during the course of the semester:
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Class Participation | 20 |
-| Three 7-page essays | 50 each (150 total) |
-| Class Debates | 30 |
-| **Total** | **200** 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three 7-page essays
+{{< tdclose >}}
+{{< tdopen >}}
+50 each (150 total)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Debates
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+**Total**
+{{< tdclose >}}
+{{< tdopen >}}
+**200**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Criteria for HASS CI Subjects
 -----------------------------
@@ -66,30 +111,326 @@ The web now hosts many sites which offer college-level papers of varying quality
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Witchcraft and Magic | &nbsp; |
-| 3 | Leonarde's Ghost | &nbsp; |
-| 4 | The Cartesian Insight | &nbsp; |
-| 5 | Cartesianism in the Seventeenth Century | First paper due  {{< br >}}Writing Workshop |
-| 6 | English Radicalism and The Trial of Charles I, 1647-1649 | &nbsp; |
-| 7 | 1688 in England | Rewrite of the first paper due |
-| 8 |  {{< br >}}{{< br >}} A Visit to the MFA {{< br >}}{{< br >}}  |  A class visit to the [Boston Museum of Fine Art](http://www.mfa.org/) |
-| 9 | Newtonianism | &nbsp; |
-| 10 | The First Debate | First debate |
-| 11 | State and Art in the Dutch Golden Age | &nbsp; |
-| 12 | Spinozism and the Idea of a "Radical" Enlightenment | &nbsp; |
-| 13 | Enlightenment France | Second paper due |
-| 14 | Voltaire Goes to England, and Persians Come to Paris | &nbsp; |
-| 15 | Are Men Machines? Are Machines Alive? | &nbsp; |
-| 16 | _Encyclopédie_ I: The Structure of Knowledge | &nbsp; |
-| 17 | _Encyclopédie_ II: The Place of the Mechanical Arts | Rewrite of second paper due |
-| 18 | Jean-Jacques Rousseau vs. The French Enlightenment | &nbsp; |
-| 19 | Second Debate | Second debate |
-| 20 | French Revolution I: The Ideals of 1789 | &nbsp; |
-| 21 | French Revolution II: The Lessons of 1793-1794 | &nbsp; |
-| 22 | The Political Backlash: Conservatism | &nbsp; |
-| 23 | The Cultural Backlash: Romanticism | &nbsp; |
-| 24 | What is Enlightenment? (1784 & 1984) | &nbsp; |
-| 25 | Conclusion | Third paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Witchcraft and Magic
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Leonarde's Ghost
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Cartesian Insight
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Cartesianism in the Seventeenth Century
+{{< tdclose >}}
+{{< tdopen >}}
+First paper due  
+Writing Workshop
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+English Radicalism and The Trial of Charles I, 1647-1649
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+1688 in England
+{{< tdclose >}}
+{{< tdopen >}}
+Rewrite of the first paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A Visit to the MFA
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ A class visit to the [Boston Museum of Fine Art](http://www.mfa.org/)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Newtonianism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The First Debate
+{{< tdclose >}}
+{{< tdopen >}}
+First debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+State and Art in the Dutch Golden Age
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Spinozism and the Idea of a "Radical" Enlightenment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Enlightenment France
+{{< tdclose >}}
+{{< tdopen >}}
+Second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Voltaire Goes to England, and Persians Come to Paris
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Are Men Machines? Are Machines Alive?
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+_Encyclopédie_ I: The Structure of Knowledge
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+_Encyclopédie_ II: The Place of the Mechanical Arts
+{{< tdclose >}}
+{{< tdopen >}}
+Rewrite of second paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Jean-Jacques Rousseau vs. The French Enlightenment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Second Debate
+{{< tdclose >}}
+{{< tdopen >}}
+Second debate
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+French Revolution I: The Ideals of 1789
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+French Revolution II: The Lessons of 1793-1794
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+The Political Backlash: Conservatism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+The Cultural Backlash: Romanticism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+What is Enlightenment? (1784 & 1984)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion
+{{< tdclose >}}
+{{< tdopen >}}
+Third paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
