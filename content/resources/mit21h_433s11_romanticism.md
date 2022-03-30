@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains images from neo-classicism to romanticism in art.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/461fd08f1b3e1c24125987bdcb06f154_MIT21H_433S11_Romanticism.pdf
 file_type: application/pdf
+parent_uid: 08dc8971-fcdd-6b6b-0e86-589b8630d238
 resourcetype: Document
 title: MIT21H_433S11_Romanticism.pdf
 uid: 461fd08f-1b3e-1c24-1259-87bdcb06f154
